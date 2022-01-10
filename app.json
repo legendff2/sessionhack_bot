@@ -13,15 +13,15 @@
     "success_url": "https://telegram.dog/LEGENDX22",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": ":1947127015:AAEpP20bw8RKFl6CE61F_tf3fSgIVKm92HQ ",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "76a057f9cfe691098b39323cd4ad7bf6",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "6408562",
             "value": ""
         }
     },
